@@ -87,12 +87,10 @@ This will:
 
 ---
 
-## 📦 Deliverables
+## Contents:
 
 * ✅ **Script**: `remove_duplicates.sh`
 * ✅ **Input and cleaned output files**
-* ✅ **Screenshots of execution**
-* ✅ **Report explaining the workflow**
 
 ---
 
@@ -111,15 +109,3 @@ This will:
 * The script processes options **in the order provided**
 * Temporary files are safely handled and cleaned up
 * Invalid options are detected with clear error messages
-
----
-
-## 👤 Author
-
-**Rohan V**
-
----
-
-## 📄 License
-
-This project is intended for **educational purposes**.
